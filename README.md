@@ -63,5 +63,10 @@ age_acc = 54%
 ![zzz](https://user-images.githubusercontent.com/76443227/184066863-e30389db-172c-4cbf-ae89-ffc2a2bd9b99.PNG)
 ![as](https://user-images.githubusercontent.com/76443227/184066868-12531252-bcb8-4b1b-aacf-129cd9112a50.PNG)
 
-weigh 파일 가중치 업데이트 중요!!
+weight 파일 가중치 업데이트 중요!!
+
+학습된 weight 파일
+https://drive.google.com/drive/folders/1NJWDvM5tJgJARXPxFwes0C7FQkhyjQNT
+age_acc = 70%
+gender_acc = 90%
 

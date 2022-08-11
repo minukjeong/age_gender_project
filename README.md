@@ -63,3 +63,5 @@ age_acc = 54%
 ![zzz](https://user-images.githubusercontent.com/76443227/184066863-e30389db-172c-4cbf-ae89-ffc2a2bd9b99.PNG)
 ![as](https://user-images.githubusercontent.com/76443227/184066868-12531252-bcb8-4b1b-aacf-129cd9112a50.PNG)
 
+weigh 파일 가중치 업데이트 중요!!
+

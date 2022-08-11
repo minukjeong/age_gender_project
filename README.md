@@ -57,3 +57,9 @@ age_acc = 54%
 5 classification = gender_acc : 97%, age_acc : 7%
 6 classification = gender_acc : 84%, age_acc : 48%
 7 classification = gender_acc : 80%, age_acc : 80%
+
+
+영상 결과
+![zzz](https://user-images.githubusercontent.com/76443227/184066863-e30389db-172c-4cbf-ae89-ffc2a2bd9b99.PNG)
+![as](https://user-images.githubusercontent.com/76443227/184066868-12531252-bcb8-4b1b-aacf-129cd9112a50.PNG)
+
